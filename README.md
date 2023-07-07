@@ -1,4 +1,9 @@
 # Project Probability_Charles Sugianto
-Tujuan utama dalam project ini adalah melakukan analisis dari dataset kesehatan yang telah disediakan oleh tim Pacmann Academy untuk menerapkan ilmu statistika dan probabilitas.
+Link Medium:
+Link Video Presentasi:
+  Ilmu statistika adalah studi tentang pengumpulan, analisis, dan interpretasi data. Ilmu statistika membantu dalam pengambilan keputusan dengan menyediakan alat untuk menguji hipotesis, mengidentifikasi pola, dan membuat perkiraan. Contohnya, dalam penelitian medis, statistika digunakan untuk menganalisis efektivitas pengobatan berdasarkan data pasien. Dalam project Pacmaan Academy kali ini peserta diminta untuk melakukan analisis dari dataset kesehatan dengan menerapkan ilmu statistika.
 Terdapat 4 file terlampir
-- File Dataset = 
+- File Presentasi = Charles Sugianto_.pdf
+- File Hitungan = Charles Sugianto_rumus
+- File README.md
+- File Dataset = insurance.csv
